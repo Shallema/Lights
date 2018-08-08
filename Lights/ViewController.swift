@@ -32,7 +32,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
         //test Git
         print("Test")
-        print("Test2")
+
     }
 
 
